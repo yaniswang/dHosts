@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dhosts", "dhosts.vcxproj", "{1239B596-8C6A-43F3-B942-C0DE4CDCCF18}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hostsdll", "hostsdll\hostsdll.vcxproj", "{6FE6D1BA-3BF3-4E72-A174-B6268C5A4655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1239B596-8C6A-43F3-B942-C0DE4CDCCF18}.Debug|Win32.ActiveCfg = Release|Win32
+		{1239B596-8C6A-43F3-B942-C0DE4CDCCF18}.Debug|Win32.Build.0 = Release|Win32
+		{1239B596-8C6A-43F3-B942-C0DE4CDCCF18}.Release|Win32.ActiveCfg = Release|Win32
+		{1239B596-8C6A-43F3-B942-C0DE4CDCCF18}.Release|Win32.Build.0 = Release|Win32
+		{6FE6D1BA-3BF3-4E72-A174-B6268C5A4655}.Debug|Win32.ActiveCfg = Release|Win32
+		{6FE6D1BA-3BF3-4E72-A174-B6268C5A4655}.Debug|Win32.Build.0 = Release|Win32
+		{6FE6D1BA-3BF3-4E72-A174-B6268C5A4655}.Release|Win32.ActiveCfg = Release|Win32
+		{6FE6D1BA-3BF3-4E72-A174-B6268C5A4655}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
